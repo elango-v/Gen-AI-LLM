@@ -4,5 +4,6 @@
 
 #Run the llama2 model in local machine
 1. ollama run llama2
+   
 #Run the streamlit.py file to start the chatbox
-3. streamlit run lang-chain-llm.py
+2. streamlit run lang-chain-llm.py
